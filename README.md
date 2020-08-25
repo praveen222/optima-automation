@@ -4,7 +4,7 @@
 
 # Features:
 - Supports Page Object Model
-- Compatible with Nodejs Versions 8.x to 13.x
+- Compatible with Nodejs Versions >10
 - Contains sample Scenarios written in Declarative style of BDD
 - Supports Data externalisation
 - Integrated with [eslint](https://www.npmjs.com/package/eslint) for identifying and reporting on code patterns.
